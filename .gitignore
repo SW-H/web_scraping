@@ -1,0 +1,10 @@
+.dist
+.vscode
+0730.py
+covid_NEWS.csv 
+naver_movie.py
+naver_news.py
+news.csv 
+Now_Playing_Movies.csv
+Pipfile
+Pipfile.lock
