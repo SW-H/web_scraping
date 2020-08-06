@@ -3,4 +3,4 @@
 ### rating/review of each movie
 #### export to csv file
 
-!(res)[result.png]
+![res](result.png)
